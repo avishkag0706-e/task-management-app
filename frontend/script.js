@@ -1,6 +1,6 @@
 const taskList = document.getElementById("taskList");
 
-const API = "http://localhost:5000";
+const API = "https://task-management-app-38fh.onrender.com";
 
 let token = localStorage.getItem("token");
 
