@@ -2,14 +2,7 @@
 
 A full-stack Task Management Application that allows users to create an account, log in securely, and manage their personal tasks. The application uses JWT authentication to protect user data and stores all tasks in MongoDB.
 
-## 🚀 Live Demo
 
-- **Frontend:** https://your-vercel-url.vercel.app
-- **Backend API:** https://task-management-app-38fh.onrender.com
-
-> Replace the frontend URL with your actual Vercel link.
-
----
 
 ## 📌 Features
 
