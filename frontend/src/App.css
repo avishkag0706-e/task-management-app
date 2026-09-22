@@ -71,7 +71,6 @@ button {
 
   font-size: 34px;
   font-weight: 800;
-
 }
 
 .user-section {
@@ -491,7 +490,6 @@ button {
   font-size: 32px;
 
   margin: 0 0 8px;
-
 }
 
 .auth-card h2 {
@@ -684,7 +682,6 @@ button {
   }
 }
 
-
 /* =========================
    TASK PROGRESS TRACKER
 ========================= */
@@ -704,12 +701,10 @@ button {
 
   border: 1px solid rgba(255, 255, 255, 0.8);
 
-  box-shadow:
-    0 10px 30px rgba(31, 41, 55, 0.07);
+  box-shadow: 0 10px 30px rgba(31, 41, 55, 0.07);
 
   overflow: hidden;
 }
-
 
 /* Small gradient line at top */
 
@@ -724,13 +719,8 @@ button {
 
   height: 4px;
 
-  background: linear-gradient(
-    90deg,
-    #7c3aed,
-    #2563eb
-  );
+  background: linear-gradient(90deg, #7c3aed, #2563eb);
 }
-
 
 /* Header */
 
@@ -760,7 +750,6 @@ button {
   color: #64748b;
 }
 
-
 /* Percentage */
 
 .progress-percentage {
@@ -776,11 +765,7 @@ button {
 
   border-radius: 50%;
 
-  background: linear-gradient(
-    135deg,
-    #7c3aed,
-    #2563eb
-  );
+  background: linear-gradient(135deg, #7c3aed, #2563eb);
 
   color: white;
 
@@ -788,10 +773,8 @@ button {
 
   font-weight: 800;
 
-  box-shadow:
-    0 6px 16px rgba(79, 70, 229, 0.25);
+  box-shadow: 0 6px 16px rgba(79, 70, 229, 0.25);
 }
-
 
 /* Progress background */
 
@@ -807,7 +790,6 @@ button {
   overflow: hidden;
 }
 
-
 /* Actual progress */
 
 .progress-fill {
@@ -815,17 +797,12 @@ button {
 
   border-radius: 20px;
 
-  background: linear-gradient(
-    90deg,
-    #7c3aed,
-    #2563eb
-  );
+  background: linear-gradient(90deg, #7c3aed, #2563eb);
 
   transition: width 0.5s ease;
 
   min-width: 0;
 }
-
 
 /* Footer */
 
@@ -849,13 +826,11 @@ button {
   color: #6d28d9;
 }
 
-
 /* =========================
    PROGRESS MOBILE
 ========================= */
 
 @media (max-width: 600px) {
-
   .progress-card {
     padding: 20px;
   }
@@ -880,5 +855,3 @@ button {
     gap: 5px;
   }
 }
-
-
