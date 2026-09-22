@@ -331,7 +331,7 @@ function App() {
     return (
       <div className="auth-container">
         <div className="auth-card">
-          <h1>Task Manager</h1>
+          <h1>Taskbuddy</h1>
 
           <h2>{authMode === "login" ? "Welcome Back" : "Create Account"}</h2>
 
